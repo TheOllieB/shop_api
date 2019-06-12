@@ -3,7 +3,6 @@ const Product = require('../models/product');
 exports.getProducts = (req, res, next) => {
 
 }
-
 exports.createProduct = (req, res, next) => {
     const title = req.body.title;
     const description = req.body.description;

@@ -1,1 +1,1 @@
-# shop_api
+# Api for a generic shop built with Node
