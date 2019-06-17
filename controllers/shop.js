@@ -1,5 +1,5 @@
 const Product = require('../models/product');
-
+//get Products from db
 exports.getProducts = (req, res, next) => {
 
 }
