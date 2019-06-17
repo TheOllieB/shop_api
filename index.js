@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const shopRoutes = require('./routes/shop');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv').config();
-
+//config
 const port = process.env.PORT;
 const mongoAtlas = process.env.MONGO_KEY;
 const app = express();
